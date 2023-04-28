@@ -45,4 +45,4 @@ terraform.rc
 # Local directories
 **/prtSc/*
 **/notes.txt
-*.txt
+cred.txt

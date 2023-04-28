@@ -1,0 +1,28 @@
+Resource name: myVM_OsDisk_1_ccd76a41d5ae48bb9dbb2e1ca8710e6e
+Resource type: Microsoft.Compute/disks
+Resource location: eastus
+----------------------
+Resource name: myVM
+Resource type: Microsoft.Compute/virtualMachines
+Resource location: eastus
+----------------------
+Resource name: myNIC
+Resource type: Microsoft.Network/networkInterfaces
+Resource location: eastus
+----------------------
+Resource name: myNSG
+Resource type: Microsoft.Network/networkSecurityGroups
+Resource location: eastus
+----------------------
+Resource name: myPublicIP
+Resource type: Microsoft.Network/publicIPAddresses
+Resource location: eastus
+----------------------
+Resource name: myVNet
+Resource type: Microsoft.Network/virtualNetworks
+Resource location: eastus
+----------------------
+Resource name: azurepowerrmyvm042716400
+Resource type: Microsoft.Storage/storageAccounts
+Resource location: eastus
+----------------------
