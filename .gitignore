@@ -46,3 +46,4 @@ terraform.rc
 **/prtSc/*
 **/notes.txt
 cred.txt
+**/example/*

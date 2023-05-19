@@ -1,0 +1,6 @@
+az login
+az account list
+az account set --subscription="73b20800-141c-4cde-88d4-65181490b6ff"
+
+Connect-AzAccount
+Connect-AzAccount -TenantId "76a2ae5a-9f00-4f6b-95ed-5d33d77c4d61""
